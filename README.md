@@ -9,7 +9,10 @@
 - 📫 How to reach me: marcstlouis04@gmail.com
 - ⚡ Fun fact: I like to travel the world and leanr about different cultures & a drone pilot 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus0224)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus0224&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus0224&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Marcus0224&theme=dark)](https://git.io/streak-stats)
