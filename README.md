@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with expanding my tech stack
 - 💬 Ask me about my passions and what motivates me
 - 📫 How to reach me: marcstlouis04@gmail.com
-- ⚡ Fun fact: I like to travel the world and leanr about different cultures & a drone pilot 
+- ⚡ Fun fact: I like to travel the world and learn about different cultures & a drone pilot 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus0224&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
