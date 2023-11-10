@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on independent projects
-- 🌱 I’m currently working with Javascript & Python for testing purposes 
+- 🌱 I’m currently working with Javascript & Java for testing purposes 
 - 👯 My focus is Quality and making sure that the project runs as superb as possible 
 - 🤔 I’m looking to collaborate on projects and enhancing the Quality of the project 
 - 💬 Ask me about my passions and what motivates me
